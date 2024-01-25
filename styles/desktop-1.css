@@ -438,3 +438,13 @@ body{
   white-space: nowrap;
   flex-shrink: 0;
 }
+
+@media(max-width:480px)
+{
+  html {
+    font-size:62.5%;
+  }
+  body {
+    width:480px;
+  }
+}

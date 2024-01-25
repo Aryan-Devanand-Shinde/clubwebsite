@@ -1,0 +1,43 @@
+
+.image{
+    /* height: 1000px; */
+    width: 100%;
+}
+.imgs{
+    width: 100%;
+    display: flex;
+}
+.img1{
+    height: 500px;
+    width: 50%;
+    background-image: url(./assets/IMG-20230928-WA0008.jpg);
+    background-size: cover;
+}
+.img2{
+    height: 900px;
+    width: 50%;
+    background-image: url(./assets/IMG-20230928-WA0007.jpg);
+    background-size: cover;
+}
+.imgse1{
+    height: 600px;
+    width: 50%;
+    background-image: url(./assets/WhatsApp\ Image\ 2023-11-10\ at\ 10.56.06_2fea0380.jpg);
+    background-size: cover;
+    position: relative;
+    bottom: 400px;
+}
+.imgse2{
+    height: 500px;
+    width: 50%;
+    background-image: url(./assets/WhatsApp\ Image\ 2023-10-23\ at\ 15.41.51_71488e5a.jpg);
+    background-size: cover;
+}
+.imgs1{
+    display: flex;
+}
+.video{
+    position: relative;
+    bottom: 400px;
+    left: 10px;
+}
